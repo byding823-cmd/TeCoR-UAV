@@ -1,0 +1,10 @@
+INSERT INTO `stores` (`id`, `name`) VALUES (1, 'Sp1');
+INSERT INTO `stores` (`id`, `name`) VALUES (2, 'Sp2');
+INSERT INTO `stores` (`id`, `name`) VALUES (3, 'Sp3');
+INSERT INTO `stores` (`id`, `name`) VALUES (4, 'Sp4');
+INSERT INTO `stores` (`id`, `name`) VALUES (5, 'Sp5');
+INSERT INTO `stores` (`id`, `name`) VALUES (6, 'Sp6');
+INSERT INTO `stores` (`id`, `name`) VALUES (7, 'Sp7');
+INSERT INTO `stores` (`id`, `name`) VALUES (8, 'Sp8');
+INSERT INTO `stores` (`id`, `name`) VALUES (9, 'Sp9');
+INSERT INTO `stores` (`id`, `name`) VALUES (10, 'Sp10');
