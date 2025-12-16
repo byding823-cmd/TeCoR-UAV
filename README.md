@@ -57,6 +57,3 @@
 - Distance matrix file: The main algorithm depends on each scenario’s distance.xlsx. Place the file in the corresponding directory:
       Mountain terrain: `c_c/3DObstacle_avoidance/moun/distance.xlsx`
       Urban terrain: `c_c/3DObstacle_avoidance/urban/distance_terrain.xlsx`
->>>>>>> 974c753 (first commit)
->>>>>>> 9e59171 (first commit)
->>>>>>> ad960d7 (first commit)
