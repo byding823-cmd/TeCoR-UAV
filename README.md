@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# TeCoR-UAV
-=======
-<<<<<<< HEAD
-# TeCoR-UAV
-=======
-<<<<<<< HEAD
-# TeCoR-UAV
-=======
+
 # TeCoR-UAV
 
 ## Environment
